@@ -1,0 +1,13 @@
+{
+    "name": "alemulli/acf-icon-selector",
+    "description": "Code to register a new Advanced Custom Fields field type to preview SVG icons in a selector.",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexa Mullin",
+            "email": "113493052+alemulli@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

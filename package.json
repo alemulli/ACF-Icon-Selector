@@ -1,5 +1,5 @@
 {
-  "name": "wpengine/acf-example-field-type",
+  "name": "alemulli/acf-example-field-type",
   "version": "1.0.0",
   "description": "Reference code to register a new Advanced Custom Fields field type.",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deliciousbrains/acf-example-field-type.git"
+    "url": "git+https://https://github.com/alemulli/ACF-Icon-Selector"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexa Mullin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/deliciousbrains/acf-example-field-type/issues"
