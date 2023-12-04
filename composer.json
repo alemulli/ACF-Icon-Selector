@@ -9,5 +9,18 @@
             "email": "113493052+alemulli@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "timber/timber": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alemulli\\AcfIconSelector\\": "acf-icon-selector/"
+        }
+    }, 
+    "minimum-stability": "dev",
+    "config" : {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
 }
